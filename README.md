@@ -8,4 +8,4 @@ Scrapes every listing on heureka.cz
 
 ----
 ## Thanks
-* [https://github.com/headzoo/surf](Surf)
+* [Surf](https://github.com/headzoo/surf)
